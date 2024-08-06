@@ -1,1 +1,1 @@
-Deployed site url :- chat-app-kappa-jade.vercel.app
+Deployed site url :- https://chat-app-kappa-jade.vercel.app
