@@ -1,1 +1,1 @@
-Deployed site url :- https://chat-app-production-00c3.up.railway.app
+Deployed site url :- chat-app-kappa-jade.vercel.app
